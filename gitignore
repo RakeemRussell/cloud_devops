@@ -1,0 +1,8 @@
+# Local coaching handoff file; never committed
+progress/STATE.md
+
+# Secrets and state (see SECURITY.md)
+.env
+*.pem
+*.tfstate
+*.tfstate.*
